@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oxonix.github.io/rehi/sitemap.xsd
